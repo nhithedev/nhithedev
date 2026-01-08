@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Shape
+
+![Shape](https://nhithedev.github.io/;;/shape.svg?sanitize=1)
