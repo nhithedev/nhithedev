@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ### Shape
 
-![Shape](https://nhithedev.github.io/;;/shape.svg?sanitize=1)
+![Shape](https://nhithedev.github.io/shape.svg?sanitize=1)
